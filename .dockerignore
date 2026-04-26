@@ -1,0 +1,15 @@
+Dockerfile
+.dockerignore
+docker
+.git
+.github
+.env
+node_modules
+vendor
+storage/logs/*
+storage/framework/cache/*
+storage/framework/sessions/*
+storage/framework/views/*
+bootstrap/cache/*
+.phpunit.cache
+database/database.sqlite
